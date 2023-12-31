@@ -1,0 +1,20 @@
+@font-face{
+    src:url();
+    font-family: heyo, non;
+}
+
+html{
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+}
+
+.sites_page{
+    background-color:black;
+}
+
+#sites_page{ /* this is for an id */
+    border: solid 2px hsl(155, 43%, 53%);
+    background-color: rgb(42, 157, 172);
+    border-radius: 10px;
+}
