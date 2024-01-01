@@ -18,3 +18,8 @@ html{
     background-color: rgb(42, 157, 172);
     border-radius: 10px;
 }
+
+#blox{
+    color:orange;
+    text-shadow: 3px 3px 5px;
+}
