@@ -22,4 +22,5 @@ html{
 #blox{
     color:orange;
     text-shadow: 3px 3px 5px;
+    display: inline;
 }
